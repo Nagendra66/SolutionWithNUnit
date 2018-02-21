@@ -14,6 +14,7 @@ namespace WebApplication1
         {
             BalClass objBal = new BalClass();
             objBal.AddTwoNumbers(2, 4);
+            objBal.AddTwoNumbers(3, 6);
         }
 
     }
