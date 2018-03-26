@@ -429,6 +429,10 @@
       <Project>{befa36c5-1298-417a-99b2-44c5ff52d610}</Project>
       <Name>ClassLibrary1.Tests</Name>
     </ProjectReference>
+    <ProjectReference Include="..\UnitTestProject2\UnitTestProject2.csproj">
+      <Project>{677f844d-d846-41b8-870f-53d48771bb52}</Project>
+      <Name>UnitTestProject2</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
