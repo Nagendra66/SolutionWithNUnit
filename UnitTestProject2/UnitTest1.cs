@@ -5,7 +5,7 @@ using NUnit.Framework;
 
 namespace UnitTestProject2
 {
-    [TestClass]
+    [TestFixture]
     public class UnitTest1
     {
         [TestMethod]
