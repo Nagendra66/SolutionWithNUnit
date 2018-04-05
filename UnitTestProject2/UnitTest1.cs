@@ -8,7 +8,7 @@ namespace UnitTestProject2
     [TestFixture]
     public class UnitTest1
     {
-        [TestMethod]
+        [Test]
         public void TestMethod1()
         {
             int actual, expected = 30;
