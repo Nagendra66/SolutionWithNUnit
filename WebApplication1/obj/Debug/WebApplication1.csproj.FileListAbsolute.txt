@@ -91,3 +91,4 @@ D:\NUnitTesting\Solution1\WebApplication1\bin\nunit.framework.dll
 D:\NUnitTesting\Solution1\WebApplication1\bin\BAL.pdb
 D:\NUnitTesting\Solution1\WebApplication1\bin\UnitTestProject2.dll
 D:\NUnitTesting\Solution1\WebApplication1\bin\UnitTestProject2.pdb
+D:\NUnitTesting\Solution1\WebApplication1\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll

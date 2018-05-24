@@ -16,5 +16,16 @@ namespace UnitTestProject1
             actual = obj.AddTwoNumbers(12, 18);
             NUnit.Framework.Assert.AreEqual(expected, actual);
         }
+
+        [Test]
+        public void TestMethod2()
+        {
+            int actual, expected = 30;
+            BAL.BalClass obj = new BAL.BalClass();
+            actual = obj.AddTwoNumbers(12, 18);
+            NUnit.Framework.Assert.AreEqual(expected, actual);
+        }
     }
+
+
 }

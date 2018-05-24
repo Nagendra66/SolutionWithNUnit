@@ -18,6 +18,7 @@ namespace UnitTestProject2
         }
 
         [Test]
+        [TestCategory("xyz")]
         public void TestMethod2()
         {
             int actual, expected = 30;
