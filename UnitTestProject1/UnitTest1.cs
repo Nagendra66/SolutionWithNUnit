@@ -8,7 +8,7 @@ namespace UnitTestProject1
     [TestClass]
     public class UnitTest1
     {
-        [TestMethod]
+        [Test]
         public void TestMethod1()
         {
             int actual, expected = 30;
@@ -22,7 +22,7 @@ namespace UnitTestProject1
         {
             int actual, expected = 30;
             BAL.BalClass obj = new BAL.BalClass();
-            actual = obj.AddTwoNumbers(12, 18);
+            actual = obj.AddTwoNumbers(7, 23);
             NUnit.Framework.Assert.AreEqual(expected, actual);
         }
     }
