@@ -153,7 +153,6 @@ D:\NUnitTesting\SolutionWithNUnitTest\SolutionWithNUnit\WebApplication1\bin\Syst
 D:\NUnitTesting\SolutionWithNUnitTest\SolutionWithNUnit\WebApplication1\bin\System.Web.Providers.dll
 D:\NUnitTesting\SolutionWithNUnitTest\SolutionWithNUnit\WebApplication1\bin\UnitTestProject2.dll
 D:\NUnitTesting\SolutionWithNUnitTest\SolutionWithNUnit\WebApplication1\bin\WebGrease.dll
-D:\NUnitTesting\SolutionWithNUnitTest\SolutionWithNUnit\WebApplication1\bin\nunit.framework.dll
 D:\NUnitTesting\SolutionWithNUnitTest\SolutionWithNUnit\WebApplication1\bin\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 D:\NUnitTesting\SolutionWithNUnitTest\SolutionWithNUnit\WebApplication1\bin\BAL.pdb
 D:\NUnitTesting\SolutionWithNUnitTest\SolutionWithNUnit\WebApplication1\bin\ClassLibrary1.Tests.pdb
@@ -186,3 +185,4 @@ D:\NUnitTesting\SolutionWithNUnitTest\SolutionWithNUnit\WebApplication1\bin\Micr
 D:\NUnitTesting\SolutionWithNUnitTest\SolutionWithNUnit\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
 D:\NUnitTesting\SolutionWithNUnitTest\SolutionWithNUnit\WebApplication1\obj\Debug\WebApplication1.dll
 D:\NUnitTesting\SolutionWithNUnitTest\SolutionWithNUnit\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\NUnitTesting\SolutionWithNUnitTest\SolutionWithNUnit\WebApplication1\bin\nunit.framework.dll
