@@ -3,3 +3,8 @@ D:\NUnitTesting\Solution1\BAL\bin\Debug\BAL.pdb
 D:\NUnitTesting\Solution1\BAL\obj\Debug\BAL.dll
 D:\NUnitTesting\Solution1\BAL\obj\Debug\BAL.pdb
 D:\NUnitTesting\Solution1\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\NUnitTesting\SolutionWithNUnitTest\SolutionWithNUnit\BAL\bin\Debug\BAL.dll
+D:\NUnitTesting\SolutionWithNUnitTest\SolutionWithNUnit\BAL\bin\Debug\BAL.pdb
+D:\NUnitTesting\SolutionWithNUnitTest\SolutionWithNUnit\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\NUnitTesting\SolutionWithNUnitTest\SolutionWithNUnit\BAL\obj\Debug\BAL.dll
+D:\NUnitTesting\SolutionWithNUnitTest\SolutionWithNUnit\BAL\obj\Debug\BAL.pdb
